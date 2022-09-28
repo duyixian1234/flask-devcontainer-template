@@ -40,7 +40,9 @@
 		"ms-python.python",
 		"ms-python.vscode-pylance",
 		"adam-bender.commit-message-editor",
-		"rangav.vscode-thunder-client"
+		"rangav.vscode-thunder-client",
+		"eamodio.gitlens",
+		"mhutchie.git-graph"
 	]
     }
   },
